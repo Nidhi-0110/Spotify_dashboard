@@ -76,12 +76,15 @@ The project highlights **data storytelling, analytical thinking**, and **dashboa
 
 
 ## 📷 Dashboard Preview
-### 🏠 Overview Page  
-![Overview Page](https://github.com/yourusername/spotify-powerbi-dashboard/assets/overview.png)
+Index Page  
+![Index Page](https://github.com/Nidhi-0110/Spotify_dashboard/blob/main/index.png)
 
-### 🎤 Artists Page  
-![Artists Page](https://github.com/yourusername/spotify-powerbi-dashboard/assets/artists.png)
+Overview Page  
+![Overview Page](https://github.com/Nidhi-0110/Spotify_dashboard/blob/main/Overview.png)
 
-### 🎵 Songs Page  
-![Songs Page](https://github.com/yourusername/spotify-powerbi-dashboard/assets/songs.png)
+Artists Page  
+![Artists Page](https://github.com/Nidhi-0110/Spotify_dashboard/blob/main/Artist.png)
+
+Songs Page  
+![Songs Page](https://github.com/Nidhi-0110/Spotify_dashboard/blob/main/Songs.png)
 
